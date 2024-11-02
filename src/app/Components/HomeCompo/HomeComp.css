@@ -1,0 +1,6 @@
+ .mainSection{
+    background: url(../../../../public/photos/Header.png);
+    background-repeat: no-repeat; 
+    background-position: left;
+    background-size: cover;
+ }
